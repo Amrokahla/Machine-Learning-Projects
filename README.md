@@ -10,3 +10,6 @@ This repository contains various **Machine Learning** and **Exploratory Data Ana
 #### 2. [Gradient Descent on Salaries Dataset](./Gradient_Descent_on_Salaries_dataset)
    - **Description**: Implementation of gradient descent optimization on a dataset to predict salary based on experience.
 
+#### 3. [Clustering_for_Credit_Card_Dataset](./Clustering_for_Credit_Card_Dataset)
+   - **Description**: Segmenting credit card users with clustring models based on spending behavior and transaction patterns for personalized insights.
+
