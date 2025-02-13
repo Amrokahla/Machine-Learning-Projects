@@ -12,4 +12,7 @@ This repository contains various **Machine Learning** and **Exploratory Data Ana
 
 #### 3. [Clustering_for_Credit_Card_Dataset](./Clustering_for_Credit_Card_Dataset)
    - **Description**: Segmenting credit card users with clustring models based on spending behavior and transaction patterns for personalized insights.
+Car_Evaluation_data_with_KNN
+#### 4. [Car_Evaluation_data_with_KNN](./Car_Evaluation_data_with_KNN)
+   - **Description**: Predicting car acceptability using the K-Nearest Neighbors (KNN) algorithm on the Car Evaluation Dataset, which assesses vehicle suitability.
 
