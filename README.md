@@ -16,3 +16,6 @@ Car_Evaluation_data_with_KNN
 #### 4. [Car_Evaluation_data_with_KNN](./Car_Evaluation_data_with_KNN)
    - **Description**: Predicting car acceptability using the K-Nearest Neighbors (KNN) algorithm on the Car Evaluation Dataset, which assesses vehicle suitability.
 
+#### 5. [Credit_Card_dataset_with_SVM_variants](./Credit_Card_dataset_with_SVM_variants)
+   - **Description**: Classifying credit card status using different variants of Support Vector Machines (SVM) to detect patterns and anomalies.
+
