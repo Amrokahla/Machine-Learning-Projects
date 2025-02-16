@@ -19,3 +19,7 @@ Car_Evaluation_data_with_KNN
 #### 5. [Credit_Card_dataset_with_SVM_variants](./Credit_Card_dataset_with_SVM_variants)
    - **Description**: Classifying credit card status using different variants of Support Vector Machines (SVM) to detect patterns and anomalies.
 
+#### 6. [Implementing_Gradient_Descent_with_different_Optimizers](./Implementing_Gradient_Descent_with_different_Optimizers)
+   - **Description**: Implementation and benchmarking of optimization algorithms, including Adam, RMSprop, and Adagrad to enhance machine learning model performance and convergence efficiency.
+
+
