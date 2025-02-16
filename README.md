@@ -10,16 +10,16 @@ This repository contains various **Machine Learning** and **Exploratory Data Ana
 #### 2. [Gradient Descent on Salaries Dataset](./Gradient_Descent_on_Salaries_dataset)
    - **Description**: Implementation of gradient descent optimization on a dataset to predict salary based on experience.
 
-#### 3. [Clustering_for_Credit_Card_Dataset](./Clustering_for_Credit_Card_Dataset)
+#### 3. [Clustering for Credit Card Dataset](./Clustering_for_Credit_Card_Dataset)
    - **Description**: Segmenting credit card users with clustring models based on spending behavior and transaction patterns for personalized insights.
 Car_Evaluation_data_with_KNN
-#### 4. [Car_Evaluation_data_with_KNN](./Car_Evaluation_data_with_KNN)
+#### 4. [Car Evaluation data with KNN](./Car_Evaluation_data_with_KNN)
    - **Description**: Predicting car acceptability using the K-Nearest Neighbors (KNN) algorithm on the Car Evaluation Dataset, which assesses vehicle suitability.
 
-#### 5. [Credit_Card_dataset_with_SVM_variants](./Credit_Card_dataset_with_SVM_variants)
+#### 5. [Credit Card dataset with SVM variants](./Credit_Card_dataset_with_SVM_variants)
    - **Description**: Classifying credit card status using different variants of Support Vector Machines (SVM) to detect patterns and anomalies.
 
-#### 6. [Implementing_Gradient_Descent_with_different_Optimizers](./Implementing_Gradient_Descent_with_different_Optimizers)
+#### 6. [Implementing Gradient Descent with different Optimizers](./Implementing_Gradient_Descent_with_different_Optimizers)
    - **Description**: Implementation and benchmarking of optimization algorithms, including Adam, RMSprop, and Adagrad to enhance machine learning model performance and convergence efficiency.
 
 
