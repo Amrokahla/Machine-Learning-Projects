@@ -22,4 +22,6 @@ Car_Evaluation_data_with_KNN
 #### 6. [Implementing Gradient Descent with different Optimizers](./Implementing_Gradient_Descent_with_different_Optimizers)
    - **Description**: Implementation and benchmarking of optimization algorithms, including Adam, RMSprop, and Adagrad to enhance machine learning model performance and convergence efficiency.
 
+#### 7. [Anomaly Detction with unsupervised learning](./Anomaly_Detction_with_unsupervised_learning)
+   - **Description**: Clustering fraud transactions and uncovering the patterns behind anomaly operations using unsupervised learning.
 
